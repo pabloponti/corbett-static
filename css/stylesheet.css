@@ -39,7 +39,7 @@ body {
   margin-bottom: 500px;
 }
 .cr-main-block {
-  background-color: #63583f;
+  background-color: rgba(99, 88, 63, 0.85);
 }
 .cr-coming {
   color: #feff96;
